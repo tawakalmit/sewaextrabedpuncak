@@ -1,0 +1,22 @@
+{
+  "name": "sewaextrabedpuncak",
+  "version": "1.0.0",
+  "description": "website sewaextrabedpuncak",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawakalmit/sewaextrabedpuncak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tawakalmit/sewaextrabedpuncak/issues"
+  },
+  "homepage": "https://github.com/tawakalmit/sewaextrabedpuncak#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
